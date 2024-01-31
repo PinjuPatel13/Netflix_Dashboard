@@ -2,9 +2,9 @@
 # Netflix Data Visualization with Tableau Dashboard
 ## Screenshots
 
-![App Screenshot](https://github.com/PinjuPatel13/Neflix_Data/blob/main/Netflix%20.png)
+![App Screenshot](https://github.com/PinjuPatel13/Netflix_Dashboard/blob/main/Netflix%20_JPG.png)
 
-Youtube Link:-
+Youtube Link:
 https://youtu.be/sGKZAQmYqFQ
 
 ## Overview
